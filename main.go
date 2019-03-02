@@ -13,5 +13,5 @@ func main() {
 	//s := "2 2 3 4"
 	//CalcAll(s)
 	fmt.Println("Start...")
-	Calc2(s)
+	CalcArr(s)
 }
